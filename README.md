@@ -7,4 +7,4 @@ MIT License with an unhealthy dose of Minecraft memes sprinkled in.
 ## Why does this exist?
 
 I'm bored, I don't know what to say, I don't aspire to be a professional programmer so I just do whatever I feel like doing.
-It's also my way to communicate, I feel confortable with memes and speak through them.
+It's also my way to communicate through my anxiety problems, I feel confortable with memes and speak through them.
